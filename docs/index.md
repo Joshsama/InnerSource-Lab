@@ -2,17 +2,7 @@
 
 Yoloing Page
 
-:
-- primo
-- - sotto punto
-- secondo
-- terzo
+Nothing to watch here.
 
-| A  | B  |
-|---|---|
-| 11  | 12  |
-| 21  | 22  |
+![hi there](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-![GitHub image](img/github_image.jpg)
-
-[link al mio sito](https://stefanocecere.com)
